@@ -1,0 +1,17 @@
+#df{
+    width: 900px;
+    margin: 0 auto;
+}
+
+h1{
+    color: blue;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 华文楷体;
+}
+
+#df p{
+    color: black;
+    font-size: 18px;
+    font-family: 华文楷体;
+}

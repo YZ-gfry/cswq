@@ -1,0 +1,78 @@
+
+
+#haa{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.tp{
+    padding-left: 25px;
+}
+#wb{
+    width: 900px;
+    margin: 0 auto;
+    height: 420px;
+}
+
+.left{
+    text-indent: 2rem;
+    float: left;
+    width: 400px;
+    margin-left: 0px;
+    margin-left: 25px;
+}
+
+.right{
+    float: right;
+    width: 400px;
+    margin-right: 25px;
+}
+
+.left p{
+    font-size: 18px;
+    font-family: "华文楷体";
+}
+#db{
+    width: 900px;
+    margin: 0 auto;
+    height: 280px;
+}
+
+.ca{
+    margin-left: 48px;
+
+}
+
+.ca p{
+    font-size: 18px;
+    font-family: "华文楷体";
+    color: #666;
+}
+.a{
+    width: 150px;
+    float: left;
+}
+.b{
+    width: 150px;
+    float: left;
+    margin-left:74px ;
+}
+.c{
+    width: 150px;
+    float: left;
+    margin-left:74px ;
+}
+.d{
+    width: 150px;
+    float: left;
+    margin-left:74px ;
+}
+#bq{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 5px;
+    color: #666666;
+    width: 900px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+}

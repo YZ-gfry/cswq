@@ -1,0 +1,31 @@
+#wq{
+    width: 900px;
+    margin: 0 auto;
+    height: 680px;
+}
+
+.jg{
+    margin-left: 10px;
+}
+
+#wq p{
+    font-size: 12px;
+    font-family: "华文楷体";
+    color: #666;
+    width: 400px;
+    float: left;
+}
+
+.ja{
+    margin-left: 10px;
+}
+
+#bq{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 5px;
+    color: #666666;
+    width: 900px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+}
